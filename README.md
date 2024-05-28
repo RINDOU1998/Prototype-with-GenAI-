@@ -1,3 +1,28 @@
+# Description
+Briefly describe what the code is supposed to do.
+
+This repo is prototype generated with chatGPT 3.5. It provide web interface for scraping certain infromation for programming from YMCA website. It basically input the link of website and output csv file in certain format.
+
+Does the code work? If not, what's broken.
+
+The start scrape button does not work as expected. It should scrape the data in format from website for example (https://www.ymcachicago.org/program-search/?locations=LV&locations=MT&locations=SS&programs=AQ-Aquatics&keywords=).
+
+How is the code better than what the team currently has?
+
+It has nice header at least?
+
+How is the code worse?
+
+It does not function at all.
+
+How many tries did it take to get the code? Main struggles?
+
+I try twice to fix bug, but it still gives what I commit to repo.
+
+Overall impression of the experience
+
+chatGPT is powerful tool to give a template but sometimes it does not work correctly. So developers have to examine the code, which costs more than just write component by themselves.
+
 # React Vitest Template
 
 A starter template for building React apps with Vite. Includes Vitest for unit testing and
